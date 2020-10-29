@@ -1,6 +1,8 @@
-# courtbot-python
-This is an experimental reimplementation of courtbot using python. It uses the
-[oscn](https://pypi.org/project/oscn/) PyPI library and twilio.
+# Courtbot-Python {Miami Version}
+
+Court Bot gives residents easy-to-understand information about resolving citations and timely reminders about upcoming court dates.
+
+It started in Atlanta and then in Tusla. We want to bring it to Miami under our Justice Discovery work. This repository is an experimental re-implementation of courtbot using python. It uses the [oscn](https://pypi.org/project/oscn/) PyPI library and twilio.
 
 ## Development
 ### Requirements
